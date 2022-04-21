@@ -1,3 +1,6 @@
 [submodule "4-1_CapstoneDesign_spring"]
 	path = 4-1_CapstoneDesign_spring
 	url = https://github.com/Leekm0912/4-1_CapstoneDesign_spring
+[submodule "4-1_CapstoneDesign_django"]
+	path = 4-1_CapstoneDesign_django
+	url = https://github.com/ghjk0498/4-1_CapstoneDesign_django.git

@@ -4,6 +4,9 @@
 
 ![프로젝트 진행흐름](https://user-images.githubusercontent.com/42348176/174619730-5b0e3a91-f569-438f-9fff-fbaf29948709.png)
 
+![프로젝트 화면](https://user-images.githubusercontent.com/42348176/174624055-2becb502-3021-424a-b52f-003cb6e23e7d.png)
+
+
 4학년 1학기 진행한 캡스톤디자인 프로젝트 입니다.
 스마트 팩토리를 주제로 캡스톤디자인 프로젝트를 진행하였으며, 세부 주제는 생산공정에서 발생하는 이상신호를 감지해 알려주는 프로젝트 입니다.
 
